@@ -1,0 +1,6 @@
+CHANGELOG 0.1.0
+
+- Added: Changelog for 0.1.0 in doc/changelogs/CHANGELOG-0.1.0
+- Added: Extension Documentation
+- Added: Example extension settings: ezjscore.ini to disable js/css packer
+
